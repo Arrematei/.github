@@ -6,7 +6,7 @@ Gerenciamento de Licitações e Dispensas
 
 Arrematei é uma startup especializada no gerenciamento de licitações e dispensas, proporcionando uma solução eficiente e intuitiva para empresas e órgãos públicos. 
 Nosso objetivo é facilitar o processo de licitação, tornando-o mais transparente e acessível.
-Nossa equipe é formada por profissionais com mais de 7 anos de experiência prática em processos licitatórios presenciais e eletrôonicos
+Nossa equipe é formada por profissionais com mais de 7 anos de experiência prática em processos licitatórios presenciais e eletrônicos
 
 ## Funcionalidades
 
